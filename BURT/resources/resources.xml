@@ -1,0 +1,8 @@
+<resources>
+	<font id="HourFont" filename="font/vtbl66.fnt" filter="0123456789"  />
+	<font id="MinuteFont" filename="font/vtbl66.fnt" filter="0123456789" />
+	<font id="DateFont" filename="font/vtm16.fnt"/>
+	<font id="StepFont" filename="font/vtbl15.fnt"/>
+    <bitmap id="back" filename="images/black.png" />
+    <bitmap id="back2" filename="images/white.png" />
+</resources>

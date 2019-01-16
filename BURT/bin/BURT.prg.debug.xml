@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="8" lineNum="17" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="8" lineNum="18" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="22" pc="268435554" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="23" pc="268435558" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="24" pc="268435601" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="25" pc="268435644" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="26" pc="268435687" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="27" pc="268435730" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="28" pc="268435773" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="29" pc="268435816" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="9" lineNum="31" pc="268435859" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="10" lineNum="34" pc="268435897" symbol="onShow"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="38" pc="268435902" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="40" pc="268435906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="41" pc="268435954" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="44" pc="268436002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="45" pc="268436065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="46" pc="268436085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="47" pc="268436121" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="48" pc="268436133" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="51" pc="268436166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="52" pc="268436186" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="53" pc="268436222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="54" pc="268436234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="58" pc="268436264" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="59" pc="268436278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="61" pc="268436310" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="62" pc="268436317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="64" pc="268436324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="69" pc="268436370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="11" lineNum="73" pc="268436396" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="12" lineNum="78" pc="268436427" symbol="getStepPercent"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="12" lineNum="80" pc="268436431" symbol="getStepPercent"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="84" pc="268436456" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="85" pc="268436460" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="86" pc="268436467" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="87" pc="268436474" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="88" pc="268436504" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="89" pc="268436521" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="90" pc="268436531" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="13" lineNum="91" pc="268436557" symbol="battery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="94" pc="268436616" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="95" pc="268436620" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="96" pc="268436639" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="98" pc="268436656" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="101" pc="268436672" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="102" pc="268436682" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="103" pc="268436692" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="106" pc="268436707" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="107" pc="268436714" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="108" pc="268436721" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="109" pc="268436757" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="110" pc="268436805" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="111" pc="268436822" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="113" pc="268436854" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="114" pc="268436886" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="14" lineNum="115" pc="268436934" symbol="drawSteps"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="15" lineNum="123" pc="268436973" symbol="onHide"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="126" pc="268436978" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="128" pc="268436982" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="129" pc="268437081" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="130" pc="268437158" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="132" pc="268437170" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="133" pc="268437206" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="134" pc="268437311" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="137" pc="268437394" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="138" pc="268437498" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="140" pc="268437515" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="16" lineNum="141" pc="268437547" symbol="drawTime"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="145" pc="268437586" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="147" pc="268437590" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="149" pc="268437607" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="150" pc="268437614" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="152" pc="268437621" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="154" pc="268437631" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="155" pc="268437667" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="157" pc="268437687" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="158" pc="268437713" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="160" pc="268437757" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="161" pc="268437783" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="163" pc="268437827" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="165" pc="268437844" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="167" pc="268437883" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="169" pc="268437900" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="171" pc="268437939" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="173" pc="268437956" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="175" pc="268437995" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="176" pc="268438038" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="178" pc="268438052" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="17" lineNum="181" pc="268438074" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="18" lineNum="186" pc="268438113" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\BURT\\source\\BURTView.mc" id="19" lineNum="190" pc="268438118" symbol="onEnterSleep"/>
+<entry filename="Rez" id="26" lineNum="26" pc="268438123" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="30" pc="268438135" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="31" pc="268438306" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="32" pc="268438339" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="33" pc="268438391" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="36" pc="268438437" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="27" symbol="hourFont"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="32" method="true" symbol="drawBattery"/>
+<entry field="true" id="14" symbol="back2"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="9" object="true" symbol="BURTApp"/>
+<entry field="true" id="16" symbol="HourFont"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8388724" method="true" symbol="battery"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="28" symbol="theme"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="31" method="true" symbol="drawTime"/>
+<entry field="true" id="26" symbol="stepFont"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="22" symbol="background2"/>
+<entry field="true" id="21" symbol="background1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="25" symbol="batteryFont"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="24" symbol="dateFont"/>
+<entry id="30" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="17" symbol="MinuteFont"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="19" symbol="StepFont"/>
+<entry id="8389347" symbol="color"/>
+<entry id="29" method="true" symbol="getStepPercent"/>
+<entry field="true" id="18" symbol="DateFont"/>
+<entry id="10" object="true" symbol="BURTView"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="back"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="23" symbol="minuteFont"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435897" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268436426" name="horizontal" stackId="5" startPc="268435906"/>
+<entry endPc="268436426" name="vertical" stackId="6" startPc="268435906"/>
+<entry endPc="268436426" name="shorter" stackId="3" startPc="268435906"/>
+<entry endPc="268436426" name="textColor" stackId="4" startPc="268435906"/>
+<entry endPc="268436426" name="info" stackId="2" startPc="268435906"/>
+<entry endPc="268436427" name="dc" stackId="1" startPc="268435902"/>
+<entry endPc="268436456" name="info" stackId="1" startPc="268436427"/>
+<entry endPc="268436615" name="battery" stackId="7" startPc="268436460"/>
+<entry endPc="268436615" name="battery_y" stackId="5" startPc="268436460"/>
+<entry endPc="268436615" name="battery_x" stackId="4" startPc="268436460"/>
+<entry endPc="268436615" name="stats" stackId="6" startPc="268436460"/>
+<entry endPc="268436616" name="dc" stackId="1" startPc="268436456"/>
+<entry endPc="268436616" name="batteryFont" stackId="3" startPc="268436456"/>
+<entry endPc="268436616" name="theme" stackId="2" startPc="268436456"/>
+<entry endPc="268436972" name="steps" stackId="7" startPc="268436620"/>
+<entry endPc="268436972" name="goal" stackId="6" startPc="268436620"/>
+<entry endPc="268436972" name="activityInfo" stackId="5" startPc="268436620"/>
+<entry endPc="268436972" name="stepsSize" stackId="10" startPc="268436620"/>
+<entry endPc="268436972" name="stepPercent" stackId="8" startPc="268436620"/>
+<entry endPc="268436972" name="stepsString" stackId="9" startPc="268436620"/>
+<entry endPc="268436973" name="horizontal" stackId="2" startPc="268436616"/>
+<entry endPc="268436973" name="dc" stackId="1" startPc="268436616"/>
+<entry endPc="268436973" name="vertical" stackId="3" startPc="268436616"/>
+<entry endPc="268436973" name="stepFont" stackId="4" startPc="268436616"/>
+<entry endPc="268437585" name="dateStr" stackId="9" startPc="268436982"/>
+<entry endPc="268437585" name="dateSize" stackId="10" startPc="268436982"/>
+<entry endPc="268437586" name="dateFont" stackId="6" startPc="268436978"/>
+<entry endPc="268437586" name="horizontal" stackId="2" startPc="268436978"/>
+<entry endPc="268437586" name="dc" stackId="1" startPc="268436978"/>
+<entry endPc="268437586" name="vertical" stackId="3" startPc="268436978"/>
+<entry endPc="268437586" name="shorter" stackId="5" startPc="268436978"/>
+<entry endPc="268437586" name="minuteFont" stackId="8" startPc="268436978"/>
+<entry endPc="268437586" name="hourFont" stackId="7" startPc="268436978"/>
+<entry endPc="268437586" name="info" stackId="4" startPc="268436978"/>
+<entry endPc="268438112" name="height" stackId="6" startPc="268437590"/>
+<entry endPc="268438112" name="chargeWidth" stackId="8" startPc="268437590"/>
+<entry endPc="268438112" name="stats" stackId="4" startPc="268437590"/>
+<entry endPc="268438112" name="outline" stackId="7" startPc="268437590"/>
+<entry endPc="268438112" name="width" stackId="5" startPc="268437590"/>
+<entry endPc="268438113" name="x" stackId="2" startPc="268437586"/>
+<entry endPc="268438113" name="dc" stackId="1" startPc="268437586"/>
+<entry endPc="268438113" name="y" stackId="3" startPc="268437586"/>
+<entry endPc="268438454" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268438135"/>
+<entry endPc="268438454" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268438135"/>
+<entry endPc="268438455" name="dc" stackId="1" startPc="268438123"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BURTApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BURTApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BURTApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BURTApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BURTView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BURTView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BURTView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BURTView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getStepPercent" parent="BURTView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="battery" parent="BURTView">
+<param id="dc"/>
+<param id="theme"/>
+<param id="batteryFont"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSteps" parent="BURTView">
+<param id="dc"/>
+<param id="horizontal"/>
+<param id="vertical"/>
+<param id="stepFont"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BURTView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTime" parent="BURTView">
+<param id="dc"/>
+<param id="horizontal"/>
+<param id="vertical"/>
+<param id="info"/>
+<param id="shorter"/>
+<param id="dateFont"/>
+<param id="hourFont"/>
+<param id="minuteFont"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="BURTView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="BURTView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="BURTView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="300" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="331" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="394" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="425" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="503" parentId="globals" symbolId="BURTApp" type="class"/>
+<dataEntry offset="574" parentId="globals" symbolId="BURTView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
