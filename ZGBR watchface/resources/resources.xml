@@ -1,0 +1,9 @@
+<resources>
+	<font id="hour" filename="font/vtbl66.fnt" filter="0123456789"  />
+	<font id="minute" filename="font/vts_black_41.fnt" filter="0123456789" />
+	<font id="date" filename="font/vtm16.fnt"/>
+	<font id="step" filename="font/vtm16.fnt"/>
+	<font id="battery" filename="font/vtm16.fnt"/>
+    <bitmap id="back" filename="images/back3.jpg" />
+    
+</resources>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="3" lineNum="15" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="3" lineNum="16" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="20" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="21" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="22" pc="268435526" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="23" pc="268435569" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="24" pc="268435612" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="25" pc="268435655" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="26" pc="268435698" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="4" lineNum="28" pc="268435741" symbol="onLayout"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="5" lineNum="36" pc="268435779" symbol="onShow"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="40" pc="268435784" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="42" pc="268435788" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="44" pc="268435802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="45" pc="268435819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="46" pc="268435829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="47" pc="268435839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="48" pc="268435858" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="49" pc="268435891" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="51" pc="268435924" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="52" pc="268435938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="54" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="55" pc="268435981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="58" pc="268435988" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="59" pc="268436046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="61" pc="268436058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="62" pc="268436094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="66" pc="268436158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="67" pc="268436262" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="69" pc="268436285" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="70" pc="268436321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="73" pc="268436365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="74" pc="268436384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="76" pc="268436401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="79" pc="268436417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="80" pc="268436427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="81" pc="268436437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="84" pc="268436452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="85" pc="268436459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="86" pc="268436466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="87" pc="268436502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="88" pc="268436550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="89" pc="268436573" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="91" pc="268436611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="92" pc="268436647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="93" pc="268436695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="96" pc="268436739" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="97" pc="268436746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="98" pc="268436773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="99" pc="268436790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="100" pc="268436800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="6" lineNum="101" pc="268436836" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="7" lineNum="107" pc="268436904" symbol="getStepPercent"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="7" lineNum="109" pc="268436908" symbol="getStepPercent"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="113" pc="268436933" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="115" pc="268436937" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="116" pc="268436954" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="117" pc="268436961" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="119" pc="268436968" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="121" pc="268436982" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="122" pc="268437018" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="124" pc="268437038" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="125" pc="268437064" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="127" pc="268437108" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="128" pc="268437134" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="130" pc="268437178" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="132" pc="268437195" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="134" pc="268437234" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="136" pc="268437251" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="138" pc="268437290" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="140" pc="268437307" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="142" pc="268437346" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="143" pc="268437389" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="145" pc="268437403" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="8" lineNum="148" pc="268437425" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="9" lineNum="152" pc="268437464" symbol="setBackground"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="9" lineNum="153" pc="268437468" symbol="setBackground"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="9" lineNum="154" pc="268437504" symbol="setBackground"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="9" lineNum="155" pc="268437516" symbol="setBackground"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="10" lineNum="161" pc="268437547" symbol="onHide"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="11" lineNum="165" pc="268437552" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloView.mc" id="12" lineNum="169" pc="268437557" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="14" lineNum="5" pc="268437562" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="14" lineNum="6" pc="268437566" symbol="initialize"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="15" lineNum="10" pc="268437585" symbol="onStart"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="16" lineNum="14" pc="268437590" symbol="onStop"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="17" lineNum="18" pc="268437595" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Danijel\\eclipse-workspace\\ZGBR Karlo\\source\\ZGBRKarloApp.mc" id="17" lineNum="19" pc="268437599" symbol="getInitialView"/>
+<entry filename="Rez" id="24" lineNum="26" pc="268437637" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="30" pc="268437649" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="31" pc="268437820" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="32" pc="268437853" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="33" pc="268437905" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="36" pc="268437951" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="18" symbol="hourFont"/>
+<entry field="true" id="16" symbol="step"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="24" method="true" symbol="drawBattery"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="9" object="true" symbol="ZGBRKarloView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="15" symbol="date"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry field="true" id="22" symbol="stepFont"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="21" symbol="batteryFont"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="20" symbol="dateFont"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="23" method="true" symbol="getStepPercent"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="25" method="true" symbol="setBackground"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="ZGBRKarloApp"/>
+<entry field="true" id="13" symbol="back"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="19" symbol="minuteFont"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435779" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268436903" name="vertical" stackId="10" startPc="268435788"/>
+<entry endPc="268436903" name="stepPercent" stackId="16" startPc="268435788"/>
+<entry endPc="268436903" name="now" stackId="5" startPc="268435788"/>
+<entry endPc="268436903" name="textColor" stackId="8" startPc="268435788"/>
+<entry endPc="268436903" name="stepsSize" stackId="18" startPc="268435788"/>
+<entry endPc="268436903" name="hour" stackId="3" startPc="268435788"/>
+<entry endPc="268436903" name="shorter" stackId="7" startPc="268435788"/>
+<entry endPc="268436903" name="goal" stackId="14" startPc="268435788"/>
+<entry endPc="268436903" name="battery" stackId="21" startPc="268435788"/>
+<entry endPc="268436903" name="dateStr" stackId="11" startPc="268435788"/>
+<entry endPc="268436903" name="stepsString" stackId="17" startPc="268435788"/>
+<entry endPc="268436903" name="clockTime" stackId="2" startPc="268435788"/>
+<entry endPc="268436903" name="dateSize" stackId="12" startPc="268435788"/>
+<entry endPc="268436903" name="minute" stackId="4" startPc="268435788"/>
+<entry endPc="268436903" name="steps" stackId="15" startPc="268435788"/>
+<entry endPc="268436903" name="info" stackId="6" startPc="268435788"/>
+<entry endPc="268436903" name="battery_x" stackId="19" startPc="268435788"/>
+<entry endPc="268436903" name="horizontal" stackId="9" startPc="268435788"/>
+<entry endPc="268436903" name="activityInfo" stackId="13" startPc="268435788"/>
+<entry endPc="268436903" name="stats" stackId="20" startPc="268435788"/>
+<entry endPc="268436904" name="dc" stackId="1" startPc="268435784"/>
+<entry endPc="268436933" name="info" stackId="1" startPc="268436904"/>
+<entry endPc="268437463" name="height" stackId="6" startPc="268436937"/>
+<entry endPc="268437463" name="chargeWidth" stackId="8" startPc="268436937"/>
+<entry endPc="268437463" name="stats" stackId="4" startPc="268436937"/>
+<entry endPc="268437463" name="outline" stackId="7" startPc="268436937"/>
+<entry endPc="268437463" name="width" stackId="5" startPc="268436937"/>
+<entry endPc="268437464" name="x" stackId="2" startPc="268436933"/>
+<entry endPc="268437464" name="dc" stackId="1" startPc="268436933"/>
+<entry endPc="268437464" name="y" stackId="3" startPc="268436933"/>
+<entry endPc="268437547" name="dc" stackId="1" startPc="268437464"/>
+<entry endPc="268437590" name="state" stackId="1" startPc="268437585"/>
+<entry endPc="268437595" name="state" stackId="1" startPc="268437590"/>
+<entry endPc="268437968" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268437649"/>
+<entry endPc="268437968" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268437649"/>
+<entry endPc="268437969" name="dc" stackId="1" startPc="268437637"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="ZGBRKarloView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ZGBRKarloView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="ZGBRKarloView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="ZGBRKarloView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getStepPercent" parent="ZGBRKarloView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="ZGBRKarloView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setBackground" parent="ZGBRKarloView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="ZGBRKarloView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="ZGBRKarloView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="ZGBRKarloView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ZGBRKarloApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="ZGBRKarloApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="ZGBRKarloApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="ZGBRKarloApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="ZGBRKarloApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="363" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="394" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="465" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="574" parentId="globals" symbolId="ZGBRKarloView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
